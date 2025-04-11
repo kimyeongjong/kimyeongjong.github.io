@@ -1,10 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Yeongjong Kim'
 
 theme = "hugo-book"
 
-googleAnalytics = "G-9WVGW5YY5G"
+googleAnalytics = ""
 
 # Book configuration
 disablePathToLower = true
